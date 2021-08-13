@@ -34,3 +34,4 @@ print('The number of files with exactly two matches is : ' + str(duplicateFiles)
 
 stop=datetime.datetime.now()
 print(stop-start)
+print("test")
