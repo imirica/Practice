@@ -1,0 +1,961 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <meta name="yandex-verification" content="c8b1853ce105cdf4" />
+  <meta name="csrf-token" content="Q7HEVA2JEp5zDt1cinnefMhdYPLBQJVlTScxrnVj">
+
+  <meta name="view-name" content="pages-cards">
+    
+            <meta property="og:description" content="Clash Royale Cards">
+          <meta property="og:image" content="https://cdn.statsroyale.com/images/og.png" />
+
+    
+  
+    <title>Clash Royale Cards</title>
+  <meta name="description" content="Clash Royale Cards">
+  
+  <link href="https://cdn.statsroyale.com/fonts.css?v=1628522528" rel="stylesheet">
+  <link href="https://cdn.statsroyale.com/build.css?v=1628522528" rel="stylesheet">
+
+  <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://cdn.statsroyale.com/images/favicon/apple-touch-icon-180x180-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://cdn.statsroyale.com/images/favicon/apple-touch-icon-152x152-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://cdn.statsroyale.com/images/favicon/apple-touch-icon-144x144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://cdn.statsroyale.com/images/favicon/apple-touch-icon-120x120-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://cdn.statsroyale.com/images/favicon/apple-touch-icon-114x114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://cdn.statsroyale.com/images/favicon/apple-touch-icon-76x76-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://cdn.statsroyale.com/images/favicon/apple-touch-icon-72x72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="https://cdn.statsroyale.com/images/favicon/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" sizes="310x310" href="https://cdn.statsroyale.com/images/favicon/large.png">
+
+  
+    <link rel="alternate" hreflang="en" href="/cards">
+  <link rel="alternate" hreflang="fr" href="/fr/cards">
+  <link rel="alternate" hreflang="ru" href="/ru/cards">
+  <link rel="alternate" hreflang="it" href="/it/cards">
+  <link rel="alternate" hreflang="es" href="/es/cards">
+  <link rel="alternate" hreflang="de" href="/de/cards">
+  <link rel="alternate" hreflang="ja" href="/ja/cards">
+  <link rel="alternate" hreflang="ko" href="/ko/cards">
+  <link rel="alternate" hreflang="id" href="/id/cards">
+  <link rel="alternate" hreflang="tr" href="/tr/cards">
+  <link rel="alternate" hreflang="fi" href="/fi/cards">
+  <link rel="alternate" hreflang="zh-Hans" href="/zh/cards">
+  
+      <script>
+        var sw = (function (w, d) {
+            return Math.min(w.screen.width, d.documentElement.clientWidth || w.innerWidth || d.body.clientWidth)
+        })(window, document);
+        window.AdSlots = window.AdSlots || {cmd: [], moat: sw < 480 ? true : false};
+    </script>
+    <script async src="https://cdn.statsroyale.com/nn/statsroyale.min.js?v=23a5dd434534379d6889"></script>
+
+<!--Google Tag Manager Header Code-->
+<script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-TR9RPDK');</script>
+<!--End Google Tag Manager Header code-->
+
+
+  
+  
+  <script>
+    window.Laravel = {"csrfToken":"Q7HEVA2JEp5zDt1cinnefMhdYPLBQJVlTScxrnVj"};
+
+        window.userInfo = null;
+    
+    window.envConfiguration = {
+      apiUrl: "https://statsroyale.com",
+      cdnUrl: "https://cdn.statsroyale.com"
+    };
+
+  </script>
+
+</head>
+
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TR9RPDK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div >
+  <div id="nn_skinl"></div>
+</div>
+<div >
+  <div id="nn_skinr"></div>
+</div>
+<div id="celtra-reveal-wrapper" style="position:fixed; height: auto; width: 100%">
+  <div id="nn_1by1"></div>
+</div>
+
+    <div class="layout__page">
+              <div class="header">
+            <div class="layout__container header__container">
+                <a href="https://statsroyale.com" class="header__logo">
+                    <div class="header__logoIcon"></div>
+                </a>
+                <div class="header__search">
+                    <form id="search-bar" class="header__searchInput">
+                        <div class="ui__button ui__buttonWhite ui__mediumButton header__typeButton">
+                            <div class="header__typeCaption">Players</div>
+                            <div class="header__arrow"></div>
+                        </div>
+
+                        <input type="text" class="ui__input ui__inputMedium ui__inputRound header__input" placeholder="Tag #XXXXXX" />
+                        <div class="header__info header__guide" data-modal-handler="true" data-name="guide"></div>
+                        <div class="header__settingsIcon" data-modal-handler="true" data-name="clan-advanced-search" style="display: none"></div>
+
+                        <button class="ui__button ui__buttonWhite ui__mediumButton header__searchButton">
+                           <div class="header__searchIcon"></div>
+                        </button>
+
+                        <div class="ui__tooltip header__dropdown" style="display: none">
+                            <a href="#" class="header__dropdownLink" data-type="Player">Players</a>
+                            <a href="#" class="header__dropdownLink" data-type="Clan">Clans</a>
+                        </div>
+                    </form>
+
+                    <div class="modal__overlay" data-modal="clan-advanced-search">
+                      <div class="modal__content header__clanModal">
+                        <span class="modal__close"></span>
+                        <div class="ui__headerSmall">
+                          Advanced search
+                        </div>
+                        <div id="clan-advanced-search"></div>
+                      </div>
+                    </div>
+
+                    <div class="modal__overlay" data-modal="guide">
+                      <div class="modal__content header__guideModal">
+                        <span class="modal__close"></span>
+                        <div class="header__guideSlider">
+                          <div class="header__guideSlide">
+                            <div class="ui__mediumText">
+                              <strong>Step 1</strong> <br/>
+                              Launch Clash Royale and tap your name
+                            </div>
+                            <img src="https://cdn.statsroyale.com/images/guide-1b.png" alt="" class="header__guideImage" />
+                          </div>
+                          <div class="header__guideSlide">
+                            <div class="ui__mediumText">
+                              <strong>Step 2</strong> <br/>
+                              Copy your Player Tag by tapping it under your name
+                            </div>
+                            <img src="https://cdn.statsroyale.com/images/guide-2b.jpg" alt="" class="header__guideImage" />
+                          </div>
+                          <div class="header__guideSlide">
+                            <div class="ui__mediumText">
+                                <strong>Step 3</strong> <br/>
+                                Paste your Player Tag in the search field and click the Search button
+                            </div>
+                            <img src="https://cdn.statsroyale.com/images/guide-3b.gif" alt="" class="header__guideImage" />
+                          </div>
+                        </div>
+
+                        <div class="header__guideNavigation">
+                          <div class="header__dot header__dotActive" data-index="0"></div>
+                          <div class="header__dot" data-index="1"></div>
+                          <div class="header__dot" data-index="2"></div>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+                <div id="header-menu"></div>
+            </div>
+        </div>
+          <div  class="adUnit__topLandingTablet" >
+  <div id="nn_lb1"></div>
+</div>
+
+  <div class="layout__container">
+    <div class="cards ui__card layout__wrapper">
+      <div class="ui__headerMedium">
+        Cards <div class="addthis_inline_share_toolbox" style="float:right"></div>
+      </div>
+
+      <div class="filters">
+        <div class="ui__select" data-select="true" data-mode="sorting" data-target=".cards__card" data-container=".cards__cards">
+          <select class="ui__selectElement">
+            <option value="elixir">By Elixir</option>
+            <option value="priority">By Rarity</option>
+          </select>
+        </div>
+
+        <div id="card-checkboxes"></div>
+      </div>
+
+      <div  class="adUnit__listViewMobileAd" >
+  <div id="nn_mobile_mpu1"></div>
+</div>
+
+              <div class="cards__group">
+          <div class="ui__headerSmall">Troop</div>
+
+          <div class="cards__cards">
+                                          <div class="cards__card" data-elixir='9' data-rarity='2' data-priority='209'>
+                  <a href='https://statsroyale.com/card/Three+Musketeers'><img src='https://cdn.statsroyale.com/images/cards/full/three_musketeers.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Three Musketeers
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='8' data-rarity='3' data-priority='308'>
+                  <a href='https://statsroyale.com/card/Golem'><img src='https://cdn.statsroyale.com/images/cards/full/chr_golem.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Golem
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='8' data-rarity='3' data-priority='308'>
+                  <a href='https://statsroyale.com/card/Electro+Giant'><img src='https://cdn.statsroyale.com/images/cards/full/electrogiant.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Electro Giant
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='7' data-rarity='1' data-priority='107'>
+                  <a href='https://statsroyale.com/card/Royal+Recruits'><img src='https://cdn.statsroyale.com/images/cards/full/royal_recruits.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Royal Recruits
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='7' data-rarity='3' data-priority='307'>
+                  <a href='https://statsroyale.com/card/P.E.K.K.A'><img src='https://cdn.statsroyale.com/images/cards/full/pekka.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    P.E.K.K.A
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='7' data-rarity='4' data-priority='407'>
+                  <a href='https://statsroyale.com/card/Lava+Hound'><img src='https://cdn.statsroyale.com/images/cards/full/lava_hound.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Lava Hound
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='7' data-rarity='4' data-priority='407'>
+                  <a href='https://statsroyale.com/card/Mega+Knight'><img src='https://cdn.statsroyale.com/images/cards/full/mega_knight.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Mega Knight
+                  </div>
+                </div>
+                                                                                  <div class="cards__card" data-elixir='6' data-rarity='1' data-priority='106'>
+                  <a href='https://statsroyale.com/card/Royal+Giant'><img src='https://cdn.statsroyale.com/images/cards/full/royal_giant.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Royal Giant
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='6' data-rarity='1' data-priority='106'>
+                  <a href='https://statsroyale.com/card/Elite+Barbarians'><img src='https://cdn.statsroyale.com/images/cards/full/angry_barbarian.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Elite Barbarians
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='6' data-rarity='3' data-priority='306'>
+                  <a href='https://statsroyale.com/card/Giant+Skeleton'><img src='https://cdn.statsroyale.com/images/cards/full/giant_skeleton.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Giant Skeleton
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='6' data-rarity='3' data-priority='306'>
+                  <a href='https://statsroyale.com/card/Goblin+Giant'><img src='https://cdn.statsroyale.com/images/cards/full/goblin_giant.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Goblin Giant
+                  </div>
+                </div>
+                                                                                                            <div class="cards__card" data-elixir='6' data-rarity='4' data-priority='406'>
+                  <a href='https://statsroyale.com/card/Sparky'><img src='https://cdn.statsroyale.com/images/cards/full/zapMachine.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Sparky
+                  </div>
+                </div>
+                                                                                                            <div class="cards__card" data-elixir='5' data-rarity='1' data-priority='105'>
+                  <a href='https://statsroyale.com/card/Barbarians'><img src='https://cdn.statsroyale.com/images/cards/full/barbarians.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Barbarians
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='5' data-rarity='1' data-priority='105'>
+                  <a href='https://statsroyale.com/card/Minion+Horde'><img src='https://cdn.statsroyale.com/images/cards/full/minion_horde.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Minion Horde
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='5' data-rarity='1' data-priority='105'>
+                  <a href='https://statsroyale.com/card/Rascals'><img src='https://cdn.statsroyale.com/images/cards/full/rascals.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Rascals
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='5' data-rarity='3' data-priority='305'>
+                  <a href='https://statsroyale.com/card/Balloon'><img src='https://cdn.statsroyale.com/images/cards/full/chr_balloon.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Balloon
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='5' data-rarity='3' data-priority='305'>
+                  <a href='https://statsroyale.com/card/Witch'><img src='https://cdn.statsroyale.com/images/cards/full/chr_witch.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Witch
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='5' data-rarity='3' data-priority='305'>
+                  <a href='https://statsroyale.com/card/Prince'><img src='https://cdn.statsroyale.com/images/cards/full/prince.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Prince
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='5' data-rarity='3' data-priority='305'>
+                  <a href='https://statsroyale.com/card/Bowler'><img src='https://cdn.statsroyale.com/images/cards/full/bowler.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Bowler
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='5' data-rarity='3' data-priority='305'>
+                  <a href='https://statsroyale.com/card/Executioner'><img src='https://cdn.statsroyale.com/images/cards/full/executioner.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Executioner
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='5' data-rarity='3' data-priority='305'>
+                  <a href='https://statsroyale.com/card/Cannon+Cart'><img src='https://cdn.statsroyale.com/images/cards/full/cannon_cart.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Cannon Cart
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='5' data-rarity='3' data-priority='305'>
+                  <a href='https://statsroyale.com/card/Electro+Dragon'><img src='https://cdn.statsroyale.com/images/cards/full/electro_dragon.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Electro Dragon
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='5' data-rarity='4' data-priority='405'>
+                  <a href='https://statsroyale.com/card/Ram+Rider'><img src='https://cdn.statsroyale.com/images/cards/full/ram_rider.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Ram Rider
+                  </div>
+                </div>
+                                                                                  <div class="cards__card" data-elixir='5' data-rarity='2' data-priority='205'>
+                  <a href='https://statsroyale.com/card/Giant'><img src='https://cdn.statsroyale.com/images/cards/full/giant.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Giant
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='5' data-rarity='2' data-priority='205'>
+                  <a href='https://statsroyale.com/card/Royal+Hogs'><img src='https://cdn.statsroyale.com/images/cards/full/royal_hog.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Royal Hogs
+                  </div>
+                </div>
+                                                                                                            <div class="cards__card" data-elixir='5' data-rarity='2' data-priority='205'>
+                  <a href='https://statsroyale.com/card/Wizard'><img src='https://cdn.statsroyale.com/images/cards/full/wizard.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Wizard
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='1' data-priority='104'>
+                  <a href='https://statsroyale.com/card/Skeleton+Dragons'><img src='https://cdn.statsroyale.com/images/cards/full/skeletondragon.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Skeleton Dragons
+                  </div>
+                </div>
+                                                                                                            <div class="cards__card" data-elixir='4' data-rarity='3' data-priority='304'>
+                  <a href='https://statsroyale.com/card/Baby+Dragon'><img src='https://cdn.statsroyale.com/images/cards/full/baby_dragon.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Baby Dragon
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='3' data-priority='304'>
+                  <a href='https://statsroyale.com/card/Dark+Prince'><img src='https://cdn.statsroyale.com/images/cards/full/dark_prince.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Dark Prince
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='3' data-priority='304'>
+                  <a href='https://statsroyale.com/card/Hunter'><img src='https://cdn.statsroyale.com/images/cards/full/hunter.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Hunter
+                  </div>
+                </div>
+                                                                                                                                      <div class="cards__card" data-elixir='4' data-rarity='4' data-priority='404'>
+                  <a href='https://statsroyale.com/card/Lumberjack'><img src='https://cdn.statsroyale.com/images/cards/full/rage_barbarian.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Lumberjack
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='4' data-priority='404'>
+                  <a href='https://statsroyale.com/card/Inferno+Dragon'><img src='https://cdn.statsroyale.com/images/cards/full/inferno_dragon.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Inferno Dragon
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='4' data-priority='404'>
+                  <a href='https://statsroyale.com/card/Electro+Wizard'><img src='https://cdn.statsroyale.com/images/cards/full/electro_wizard.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Electro Wizard
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='4' data-priority='404'>
+                  <a href='https://statsroyale.com/card/Night+Witch'><img src='https://cdn.statsroyale.com/images/cards/full/dark_witch.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Night Witch
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='4' data-priority='404'>
+                  <a href='https://statsroyale.com/card/Magic+Archer'><img src='https://cdn.statsroyale.com/images/cards/full/magic_archer.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Magic Archer
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='4' data-priority='404'>
+                  <a href='https://statsroyale.com/card/Mother+Witch'><img src='https://cdn.statsroyale.com/images/cards/full/motherwitch.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Mother Witch
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='2' data-priority='204'>
+                  <a href='https://statsroyale.com/card/Valkyrie'><img src='https://cdn.statsroyale.com/images/cards/full/valkyrie.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Valkyrie
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='2' data-priority='204'>
+                  <a href='https://statsroyale.com/card/Musketeer'><img src='https://cdn.statsroyale.com/images/cards/full/musketeer.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Musketeer
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='2' data-priority='204'>
+                  <a href='https://statsroyale.com/card/Mini+P.E.K.K.A'><img src='https://cdn.statsroyale.com/images/cards/full/mini_pekka.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Mini P.E.K.K.A
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='2' data-priority='204'>
+                  <a href='https://statsroyale.com/card/Hog+Rider'><img src='https://cdn.statsroyale.com/images/cards/full/hog_rider.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Hog Rider
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='2' data-priority='204'>
+                  <a href='https://statsroyale.com/card/Battle+Ram'><img src='https://cdn.statsroyale.com/images/cards/full/battle_ram.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Battle Ram
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='2' data-priority='204'>
+                  <a href='https://statsroyale.com/card/Zappies'><img src='https://cdn.statsroyale.com/images/cards/full/zappies.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Zappies
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='2' data-priority='204'>
+                  <a href='https://statsroyale.com/card/Flying+Machine'><img src='https://cdn.statsroyale.com/images/cards/full/flying_machine.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Flying Machine
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='2' data-priority='204'>
+                  <a href='https://statsroyale.com/card/Battle+Healer'><img src='https://cdn.statsroyale.com/images/cards/full/battle_healer.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Battle Healer
+                  </div>
+                </div>
+                                                                                                                                                                <div class="cards__card" data-elixir='3' data-rarity='1' data-priority='103'>
+                  <a href='https://statsroyale.com/card/Knight'><img src='https://cdn.statsroyale.com/images/cards/full/knight.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Knight
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='1' data-priority='103'>
+                  <a href='https://statsroyale.com/card/Archers'><img src='https://cdn.statsroyale.com/images/cards/full/archers.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Archers
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='1' data-priority='103'>
+                  <a href='https://statsroyale.com/card/Minions'><img src='https://cdn.statsroyale.com/images/cards/full/minion.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Minions
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='1' data-priority='103'>
+                  <a href='https://statsroyale.com/card/Goblin+Gang'><img src='https://cdn.statsroyale.com/images/cards/full/goblin_gang.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Goblin Gang
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='1' data-priority='103'>
+                  <a href='https://statsroyale.com/card/Skeleton+Barrel'><img src='https://cdn.statsroyale.com/images/cards/full/skeleton_balloon.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Skeleton Barrel
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='1' data-priority='103'>
+                  <a href='https://statsroyale.com/card/Firecracker'><img src='https://cdn.statsroyale.com/images/cards/full/firecracker.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Firecracker
+                  </div>
+                </div>
+                                                                                                                                      <div class="cards__card" data-elixir='3' data-rarity='3' data-priority='303'>
+                  <a href='https://statsroyale.com/card/Skeleton+Army'><img src='https://cdn.statsroyale.com/images/cards/full/skeleton_horde.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Skeleton Army
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='3' data-priority='303'>
+                  <a href='https://statsroyale.com/card/Guards'><img src='https://cdn.statsroyale.com/images/cards/full/skeleton_warriors.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Guards
+                  </div>
+                </div>
+                                                                                                                                      <div class="cards__card" data-elixir='3' data-rarity='4' data-priority='403'>
+                  <a href='https://statsroyale.com/card/Ice+Wizard'><img src='https://cdn.statsroyale.com/images/cards/full/ice_wizard.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Ice Wizard
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='4' data-priority='403'>
+                  <a href='https://statsroyale.com/card/Princess'><img src='https://cdn.statsroyale.com/images/cards/full/princess.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Princess
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='4' data-priority='403'>
+                  <a href='https://statsroyale.com/card/Miner'><img src='https://cdn.statsroyale.com/images/cards/full/miner.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Miner
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='4' data-priority='403'>
+                  <a href='https://statsroyale.com/card/Bandit'><img src='https://cdn.statsroyale.com/images/cards/full/bandit.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Bandit
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='4' data-priority='403'>
+                  <a href='https://statsroyale.com/card/Royal+Ghost'><img src='https://cdn.statsroyale.com/images/cards/full/ghost.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Royal Ghost
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='4' data-priority='403'>
+                  <a href='https://statsroyale.com/card/Fisherman'><img src='https://cdn.statsroyale.com/images/cards/full/fisherman.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Fisherman
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='2' data-priority='203'>
+                  <a href='https://statsroyale.com/card/Mega+Minion'><img src='https://cdn.statsroyale.com/images/cards/full/mega_minion.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Mega Minion
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='2' data-priority='203'>
+                  <a href='https://statsroyale.com/card/Dart+Goblin'><img src='https://cdn.statsroyale.com/images/cards/full/blowdart_goblin.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Dart Goblin
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='2' data-priority='203'>
+                  <a href='https://statsroyale.com/card/Elixir+Golem'><img src='https://cdn.statsroyale.com/images/cards/full/elixir_golem.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Elixir Golem
+                  </div>
+                </div>
+                                                                                                            <div class="cards__card" data-elixir='2' data-rarity='1' data-priority='102'>
+                  <a href='https://statsroyale.com/card/Goblins'><img src='https://cdn.statsroyale.com/images/cards/full/goblins.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Goblins
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='2' data-rarity='1' data-priority='102'>
+                  <a href='https://statsroyale.com/card/Bomber'><img src='https://cdn.statsroyale.com/images/cards/full/bomber.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Bomber
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='2' data-rarity='1' data-priority='102'>
+                  <a href='https://statsroyale.com/card/Spear+Goblins'><img src='https://cdn.statsroyale.com/images/cards/full/goblin_archer.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Spear Goblins
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='2' data-rarity='1' data-priority='102'>
+                  <a href='https://statsroyale.com/card/Bats'><img src='https://cdn.statsroyale.com/images/cards/full/bats.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Bats
+                  </div>
+                </div>
+                                                                                                            <div class="cards__card" data-elixir='2' data-rarity='3' data-priority='302'>
+                  <a href='https://statsroyale.com/card/Wall+Breakers'><img src='https://cdn.statsroyale.com/images/cards/full/wallbreaker.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Wall Breakers
+                  </div>
+                </div>
+                                                                                                                                      <div class="cards__card" data-elixir='2' data-rarity='2' data-priority='202'>
+                  <a href='https://statsroyale.com/card/Ice+Golem'><img src='https://cdn.statsroyale.com/images/cards/full/ice_golem.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Ice Golem
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='1' data-rarity='1' data-priority='101'>
+                  <a href='https://statsroyale.com/card/Skeletons'><img src='https://cdn.statsroyale.com/images/cards/full/skeletons.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Skeletons
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='1' data-rarity='1' data-priority='101'>
+                  <a href='https://statsroyale.com/card/Ice+Spirit'><img src='https://cdn.statsroyale.com/images/cards/full/snow_spirits.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Ice Spirit
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='1' data-rarity='1' data-priority='101'>
+                  <a href='https://statsroyale.com/card/Fire+Spirit'><img src='https://cdn.statsroyale.com/images/cards/full/fire_spirits.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Fire Spirit
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='1' data-rarity='1' data-priority='101'>
+                  <a href='https://statsroyale.com/card/Electro+Spirit'><img src='https://cdn.statsroyale.com/images/cards/full/electrospirit.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Electro Spirit
+                  </div>
+                </div>
+                                                                                        </div>
+        </div>
+
+              <div class="cards__group">
+          <div class="ui__headerSmall">Building</div>
+
+          <div class="cards__cards">
+                                                                                                                                                                                                                                <div class="cards__card" data-elixir='7' data-rarity='2' data-priority='207'>
+                  <a href='https://statsroyale.com/card/Barbarian+Hut'><img src='https://cdn.statsroyale.com/images/cards/full/barbarian_hut.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Barbarian Hut
+                  </div>
+                </div>
+                                                                                                                                                                <div class="cards__card" data-elixir='6' data-rarity='3' data-priority='306'>
+                  <a href='https://statsroyale.com/card/X-Bow'><img src='https://cdn.statsroyale.com/images/cards/full/building_xbow.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    X-Bow
+                  </div>
+                </div>
+                                                                                                            <div class="cards__card" data-elixir='6' data-rarity='2' data-priority='206'>
+                  <a href='https://statsroyale.com/card/Elixir+Collector'><img src='https://cdn.statsroyale.com/images/cards/full/building_elixir_collector.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Elixir Collector
+                  </div>
+                </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                              <div class="cards__card" data-elixir='5' data-rarity='2' data-priority='205'>
+                  <a href='https://statsroyale.com/card/Goblin+Hut'><img src='https://cdn.statsroyale.com/images/cards/full/fire_furnace.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Goblin Hut
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='5' data-rarity='2' data-priority='205'>
+                  <a href='https://statsroyale.com/card/Inferno+Tower'><img src='https://cdn.statsroyale.com/images/cards/full/building_inferno.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Inferno Tower
+                  </div>
+                </div>
+                                                                                                            <div class="cards__card" data-elixir='4' data-rarity='1' data-priority='104'>
+                  <a href='https://statsroyale.com/card/Mortar'><img src='https://cdn.statsroyale.com/images/cards/full/building_mortar.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Mortar
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='1' data-priority='104'>
+                  <a href='https://statsroyale.com/card/Tesla'><img src='https://cdn.statsroyale.com/images/cards/full/building_tesla.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Tesla
+                  </div>
+                </div>
+                                                                                                                                                                                          <div class="cards__card" data-elixir='4' data-rarity='3' data-priority='304'>
+                  <a href='https://statsroyale.com/card/Goblin+Drill'><img src='https://cdn.statsroyale.com/images/cards/full/goblindrill.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Goblin Drill
+                  </div>
+                </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                    <div class="cards__card" data-elixir='4' data-rarity='2' data-priority='204'>
+                  <a href='https://statsroyale.com/card/Bomb+Tower'><img src='https://cdn.statsroyale.com/images/cards/full/bomb_tower.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Bomb Tower
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='2' data-priority='204'>
+                  <a href='https://statsroyale.com/card/Furnace'><img src='https://cdn.statsroyale.com/images/cards/full/firespirit_hut.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Furnace
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='2' data-priority='204'>
+                  <a href='https://statsroyale.com/card/Goblin+Cage'><img src='https://cdn.statsroyale.com/images/cards/full/goblin_cage.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Goblin Cage
+                  </div>
+                </div>
+                                                                                                                                                                                                                                              <div class="cards__card" data-elixir='3' data-rarity='1' data-priority='103'>
+                  <a href='https://statsroyale.com/card/Cannon'><img src='https://cdn.statsroyale.com/images/cards/full/chaos_cannon.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Cannon
+                  </div>
+                </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="cards__card" data-elixir='3' data-rarity='2' data-priority='203'>
+                  <a href='https://statsroyale.com/card/Tombstone'><img src='https://cdn.statsroyale.com/images/cards/full/tombstone.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Tombstone
+                  </div>
+                </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </div>
+        </div>
+
+              <div class="cards__group">
+          <div class="ui__headerSmall">Spell</div>
+
+          <div class="cards__cards">
+                                                                                                                                                                                                                                                                                                                                                                                            <div class="cards__card" data-elixir='6' data-rarity='3' data-priority='306'>
+                  <a href='https://statsroyale.com/card/Lightning'><img src='https://cdn.statsroyale.com/images/cards/full/lightning.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Lightning
+                  </div>
+                </div>
+                                                                                                            <div class="cards__card" data-elixir='6' data-rarity='2' data-priority='206'>
+                  <a href='https://statsroyale.com/card/Rocket'><img src='https://cdn.statsroyale.com/images/cards/full/rocket.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Rocket
+                  </div>
+                </div>
+                                                                                                                                                                                                                                                                                                                                                      <div class="cards__card" data-elixir='5' data-rarity='4' data-priority='405'>
+                  <a href='https://statsroyale.com/card/Graveyard'><img src='https://cdn.statsroyale.com/images/cards/full/graveyard.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Graveyard
+                  </div>
+                </div>
+                                                                                                                                                                                                                                                                                                                                                      <div class="cards__card" data-elixir='4' data-rarity='3' data-priority='304'>
+                  <a href='https://statsroyale.com/card/Freeze'><img src='https://cdn.statsroyale.com/images/cards/full/freeze.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Freeze
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='4' data-rarity='3' data-priority='304'>
+                  <a href='https://statsroyale.com/card/Poison'><img src='https://cdn.statsroyale.com/images/cards/full/poison.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Poison
+                  </div>
+                </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <div class="cards__card" data-elixir='4' data-rarity='2' data-priority='204'>
+                  <a href='https://statsroyale.com/card/Fireball'><img src='https://cdn.statsroyale.com/images/cards/full/fire_fireball.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Fireball
+                  </div>
+                </div>
+                                                                                                                                                                                                                                              <div class="cards__card" data-elixir='3' data-rarity='1' data-priority='103'>
+                  <a href='https://statsroyale.com/card/Arrows'><img src='https://cdn.statsroyale.com/images/cards/full/order_volley.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Arrows
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='1' data-priority='103'>
+                  <a href='https://statsroyale.com/card/Royal+Delivery'><img src='https://cdn.statsroyale.com/images/cards/full/royal_delivery.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Royal Delivery
+                  </div>
+                </div>
+                                                                                                            <div class="cards__card" data-elixir='3' data-rarity='3' data-priority='303'>
+                  <a href='https://statsroyale.com/card/Goblin+Barrel'><img src='https://cdn.statsroyale.com/images/cards/full/goblin_barrel.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Goblin Barrel
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='3' data-priority='303'>
+                  <a href='https://statsroyale.com/card/Tornado'><img src='https://cdn.statsroyale.com/images/cards/full/tornado.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Tornado
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='3' data-rarity='3' data-priority='303'>
+                  <a href='https://statsroyale.com/card/Clone'><img src='https://cdn.statsroyale.com/images/cards/full/copy.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Clone
+                  </div>
+                </div>
+                                                                                                                                                                                                                                                                                                                            <div class="cards__card" data-elixir='3' data-rarity='2' data-priority='203'>
+                  <a href='https://statsroyale.com/card/Earthquake'><img src='https://cdn.statsroyale.com/images/cards/full/earthquake.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Earthquake
+                  </div>
+                </div>
+                                                                                                                                                                <div class="cards__card" data-elixir='2' data-rarity='1' data-priority='102'>
+                  <a href='https://statsroyale.com/card/Zap'><img src='https://cdn.statsroyale.com/images/cards/full/zap.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Zap
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='2' data-rarity='1' data-priority='102'>
+                  <a href='https://statsroyale.com/card/Giant+Snowball'><img src='https://cdn.statsroyale.com/images/cards/full/snowball.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Giant Snowball
+                  </div>
+                </div>
+                                                                                  <div class="cards__card" data-elixir='2' data-rarity='3' data-priority='302'>
+                  <a href='https://statsroyale.com/card/Rage'><img src='https://cdn.statsroyale.com/images/cards/full/rage.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Rage
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='2' data-rarity='3' data-priority='302'>
+                  <a href='https://statsroyale.com/card/Barbarian+Barrel'><img src='https://cdn.statsroyale.com/images/cards/full/barb_barrel.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Barbarian Barrel
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='2' data-rarity='4' data-priority='402'>
+                  <a href='https://statsroyale.com/card/The+Log'><img src='https://cdn.statsroyale.com/images/cards/full/the_log.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    The Log
+                  </div>
+                </div>
+                                                                                                                                                                                          <div class="cards__card" data-elixir='1' data-rarity='3' data-priority='301'>
+                  <a href='https://statsroyale.com/card/Mirror'><img src='https://cdn.statsroyale.com/images/cards/full/mirror.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Mirror
+                  </div>
+                </div>
+                                                        <div class="cards__card" data-elixir='1' data-rarity='2' data-priority='201'>
+                  <a href='https://statsroyale.com/card/Heal+Spirit'><img src='https://cdn.statsroyale.com/images/cards/full/healspirit.png'></a>
+                  <div class="ui__tooltip ui__tooltipTop ui__tooltipMiddle cards__tooltip">
+                    Heal Spirit
+                  </div>
+                </div>
+                                    </div>
+        </div>
+
+      
+    </div>
+  </div>
+      
+      <div class="footer">
+  <div class="layout__container">
+    <div class="footer__container">
+      <div class="footer__navigation">
+        <div class="footer__links">
+          <a href="https://statsroyale.com/deckbuilder" class="ui__link ui__whiteText ui__mediumText footer__link">Deck Builder</a>
+          <a href="https://statsroyale.com/guides" class="ui__link ui__whiteText ui__mediumText footer__link">Guides</a>
+          <a href="https://statsroyale.com/decks/popular" class="ui__link ui__whiteText ui__mediumText footer__link">Popular Decks</a>
+          <a href="https://statsroyale.com/decks/challenge-winners?type=grand" class="ui__link ui__whiteText ui__mediumText footer__link">Challenge Winners</a>
+          <a href="https://statsroyale.com/tournaments" class="ui__link ui__whiteText ui__mediumText footer__link">Tournaments</a>
+        </div>
+
+        <div class="footer__links">
+
+          <a href="https://statsroyale.com/cards" class="ui__link ui__whiteText ui__mediumText footer__link">Cards</a>
+          <a href="https://statsroyale.com/top/cards" class="ui__link ui__whiteText ui__mediumText footer__link">Top Cards</a>
+          <a href="https://statsroyale.com/top/players" class="ui__link ui__whiteText ui__mediumText footer__link">Top Players</a>
+          <a href="https://statsroyale.com/top/clans" class="ui__link ui__whiteText ui__mediumText footer__link">Top Clans</a>
+        </div>
+
+        <div class="footer__links footer__social">
+          <a href="https://facebook.com/statsroyale" target="_blank" class="footer__icon footer__facebook ui__link ui__whiteText ui__mediumText footer__link">
+            Facebook
+          </a>
+          <a href="https://vk.com/statsroyale" target="_blank" class="footer__icon footer__vk ui__link ui__whiteText ui__mediumText footer__link">
+            Vkontakte
+          </a>
+          <a href="https://discord.gg/statsroyale" target="_blank"  class="footer__icon footer__discord ui__link ui__whiteText ui__mediumText footer__link">
+            Discord
+          </a>
+          <a href="https://twitter.com/statsroyale" target="_blank" class="footer__icon footer__twitter ui__link ui__whiteText ui__mediumText footer__link">
+            Twitter
+          </a>
+        </div>
+        <div class="footer__links footer__apps">
+          <div class="footer__link ui__whiteText ui__mediumText">
+            Official Apps
+          </div>
+            <a href="https://itunes.apple.com/us/app/stats-royale/id1264722932?mt=8" class="appbadge__link">
+              <div class="app-store-badge"></div>
+            </a>
+            <a href="https://play.google.com/store/apps/details?id=com.overwolf.statsroyale" class="appbadge__link">
+              <div class="google-play-badge"></div>
+            </a>
+        </div>
+      </div>
+      <div class="footer__brand"><a href="https://www.overwolf.com/" class="footer__overwolf footer__icon"></a></div>
+      <div class="footer__supercell">
+        <div class="ui__mediumText ui__whiteText">
+          
+    This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and  Supercell is not responsible for it.
+    For more information see <strong><a href='https://www.supercell.com/fan-content-policy' class='ui__link ui__whiteText'>Supercell's Fan Content Policy</a></strong>.
+    See our <a href='https://statsroyale.com/privacy' class='ui__link ui__whiteText'>Privacy Policy</a> for additional details.
+  
+          <a class="nn-cmp-show ui__link ui__whiteText" href="#">Manage Cookie Settings</a>.
+          <font style="color: #333">v1.2</font>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="container" style="display: none"></div>
+
+<script type="text/javascript" src="https://cdn.statsroyale.com/vendor.js?v=1628522528"></script>
+<script type="text/javascript" src="https://cdn.statsroyale.com/build.js?v=1628522528"></script>
+
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '778945222267918',
+        cookie     : true,
+        xfbml      : true,
+        version    : 'v2.8'
+      });
+      FB.AppEvents.logPageView();
+    };
+
+    (function(d, s, id){
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement(s); js.id = id;
+       js.src = "//connect.facebook.net/en_US/sdk.js";
+       fjs.parentNode.insertBefore(js, fjs);
+     }(document, 'script', 'facebook-jssdk'));
+  </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-87846423-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-87846423-1');
+  </script>
+
+  <!-- Yandex.Metrika counter -->
+  <script type="text/javascript" >
+     (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+     m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+     (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+     ym(44640748, "init", {
+          clickmap:true,
+          trackLinks:true,
+          accurateTrackBounce:true
+     });
+  </script>
+  <noscript><div><img src="https://mc.yandex.ru/watch/44640748" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+  <!-- /Yandex.Metrika counter -->
+
+  <div >
+  <div id="nn_mobile_lb1_sticky"></div>
+</div>
+    </div>
+</body>
+</html>

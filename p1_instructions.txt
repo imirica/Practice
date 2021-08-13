@@ -1,0 +1,7 @@
+1. go to C:
+2. go through all paths/dirs/files using os.walk
+3. generate for each file an sha256 digest (output)
+4. put the sha256 digest of each file as a key in a dict and add to it as value the name of the file
+5. when a new key is added to the dict, check if the key already exists. If 'yes' add the value to the already existing key. If 'not'
+add the new key to the dict together with it's value
+6. display how many keys with exactley two values exist in the dict
